@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Item 1",
+        "price": 100,
+        "rating": 4,
+        "discount": 10,
+        "numberofratings": 100,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim1.jpg?alt=media&token=4c8d013f-6377-4792-b38d-9d661dd3ad48",
+        "catogery": 1,
+        "brand": "A",
+        "pop":1
+    },
+    {
+        "name": "Item 2",
+        "price": 1200,
+        "rating": 3,
+        "discount": 90,
+        "numberofratings": 10,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim2.jpg?alt=media&token=9b814385-b90a-4dbf-9fa4-734b00308569",
+        "catogery": 2,
+        "brand": "A",
+        "pop":2
+    },
+    {
+        "name": "Item 3",
+        "price": 2200,
+        "rating": 5,
+        "discount": 32,
+        "numberofratings": 350,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim3.jpg?alt=media&token=27f88849-c0e2-45e2-9dfd-b5700f120916",
+        "catogery": 2,
+        "brand": "A",
+        "pop":8
+    },
+    {
+        "name": "Item 4",
+        "price": 3000,
+        "rating": 2,
+        "discount": 40,
+        "numberofratings": 1030,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim4.jpg?alt=media&token=335336b5-6762-43a6-8c3a-11be7f8fdc12",
+        "catogery": 3,
+        "brand": "B",
+        "pop":7
+    },
+    {
+        "name": "Item 5",
+        "price": 4300,
+        "rating": 1,
+        "discount": 20,
+        "numberofratings": 16,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim5.jpg?alt=media&token=aab36326-fdc4-4be0-92db-0af10bfc918e",
+        "catogery": 3,
+        "brand": "B",
+        "pop":6
+    },
+    {
+        "name": "Item 6",
+        "price": 3500,
+        "rating": 5,
+        "discount": 0,
+        "numberofratings": 100,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim6.jpg?alt=media&token=f0590072-7e4c-4126-ad99-9da48e1e0d8b",
+        "catogery": 3,
+        "brand": "C",
+        "pop":5
+    },
+    {
+        "name": "Item 7",
+        "price": 5000,
+        "rating": 4,
+        "discount": 10,
+        "numberofratings": 200,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim7.jpg?alt=media&token=645200c0-51b8-437b-a304-5ced67f9525f",
+        "catogery": 1,
+        "brand": "C",
+        "pop":3
+    },
+    {
+        "name": "Item 8",
+        "price": 6500,
+        "rating": 3,
+        "discount": 54,
+        "numberofratings": 400,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim11.jpg?alt=media&token=2674b2c2-eb41-4e50-b2d4-03a7c5965106",
+        "catogery": 2,
+        "brand": "D",
+        "pop":9
+    },
+    {
+        "name": "Item 9",
+        "price": 5644,
+        "rating": 2,
+        "discount": 10,
+        "numberofratings": 700,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim7.jpg?alt=media&token=645200c0-51b8-437b-a304-5ced67f9525f",
+        "catogery": 1,
+        "brand": "E",
+        "pop":11
+    },
+    {
+        "name": "Item 10",
+        "price": 3200,
+        "rating": 1,
+        "discount": 20,
+        "numberofratings": 1000,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim8.jpg?alt=media&token=54f71807-561b-49e4-acf2-9b0476a8368e",
+        "catogery": 2,
+        "brand": "C",
+        "pop":10
+    },
+    {
+        "name": "Item 11",
+        "price": 4200,
+        "rating": 4,
+        "discount": 30,
+        "numberofratings": 2070,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim9.jpg?alt=media&token=d2eb99a4-e25a-45f8-a6a9-eba29fa7851f",
+        "catogery": 4,
+        "brand": "E",
+        "pop":12
+    },
+    {
+        "name": "Item 12",
+        "price": 8700,
+        "rating": 4,
+        "discount": 40,
+        "numberofratings": 1800,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim10.jpg?alt=media&token=f422b0ea-4183-455a-8b88-209df9a82cc2",
+        "catogery": 4,
+        "brand": "D",
+        "pop":16
+    },
+    {
+        "name": "Item 13",
+        "price": 4800,
+        "rating": 5,
+        "discount": 50,
+        "numberofratings": 940,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim12.jpg?alt=media&token=10220f8b-0a66-4ad6-ad9c-63b9b1dff483",
+        "catogery": 4,
+        "brand": "D",
+        "pop":14
+    },
+    {
+        "name": "Item 14",
+        "price": 9000,
+        "rating": 1,
+        "discount": 60,
+        "numberofratings": 2700,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim13.jpg?alt=media&token=66966a46-089a-4953-bed3-73b5290489cc",
+        "catogery": 5,
+        "brand": "E",
+        "pop":13
+    },
+    {
+        "name": "Item 15",
+        "price": 40,
+        "rating": 2,
+        "discount": 70,
+        "numberofratings": 1500,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim12.jpg?alt=media&token=10220f8b-0a66-4ad6-ad9c-63b9b1dff483",
+        "catogery": 5,
+        "brand": "A",
+        "pop":15
+    },
+    {
+        "name": "Item 16",
+        "price": 7400,
+        "rating": 5,
+        "discount": 80,
+        "numberofratings": 1080,
+        "imageurl": "https://firebasestorage.googleapis.com/v0/b/auth-setup-cdc76.appspot.com/o/files%2FOm7R6fUX3dTP8zM6Nyb3JqFTQOA2%2FNewIntern%2Fim9.jpg?alt=media&token=d2eb99a4-e25a-45f8-a6a9-eba29fa7851f",
+        "catogery": 1,
+        "brand": "F",
+        "pop":4
+    }
+]
